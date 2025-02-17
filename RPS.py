@@ -11,11 +11,17 @@ elif(((computerchoice-userchoice)==1 )or((computerchoice-userchoice)==-2)):
 else:
     print("CONGRATULATIONS!! YOU WON" )
 
+
+'''
+                                  {LOGIC}
+
 # # CONDITION OF COPUTER WIN
 # # 2-1 = 1
 # # 1-3 =-2   
 # # 3-2 = 1
-'''
+                                  {{[WITH GUI}}] 
+
+
 import random
 import tkinter as tk
 from tkinter import messagebox
